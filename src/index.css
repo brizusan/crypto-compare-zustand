@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-image: url("./criptos.jpeg");
+  background-image: url("/criptos.webp");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;

@@ -7,7 +7,6 @@ function App() {
 
   const getCriptos = useCryptoStore((state) => state.getCriptos);
 
-
   useEffect(() => {
     getCriptos();
   }, [getCriptos]);
